@@ -1,0 +1,54 @@
+{
+    "Python": [
+        {
+            "question": "What is the difference between a list and a tuple in Python?",
+            "keywords": ["list", "tuple", "mutable", "immutable"]
+        },
+        {
+            "question": "What are Python dictionaries?",
+            "keywords": ["key", "value", "mutable", "unordered"]
+        },
+        {
+            "question": "What is a Python function?",
+            "keywords": ["def", "function", "parameters", "return"]
+        }
+    ],
+    "SQL": [
+        {
+            "question": "What is the difference between WHERE and HAVING in SQL?",
+            "keywords": ["where", "having", "group", "aggregate"]
+        },
+        {
+            "question": "What is a primary key?",
+            "keywords": ["unique", "identify", "record", "null"]
+        },
+        {
+            "question": "What is the difference between INNER JOIN and LEFT JOIN?",
+            "keywords": ["inner", "left", "join", "matching"]
+        }
+    ],
+    "Data Science": [
+        {
+            "question": "What is the difference between supervised and unsupervised learning?",
+            "keywords": ["supervised", "unsupervised", "labeled", "unlabeled"]
+        },
+        {
+            "question": "What is overfitting in machine learning?",
+            "keywords": ["overfitting", "training", "generalization", "test"]
+        }
+    ],
+    "HR": [
+        {
+            "question": "Tell me about yourself.",
+            "keywords": ["education", "skills", "project", "experience"]
+        },
+        {
+            "question": "What are your strengths?",
+            "keywords": ["strength", "skills", "example", "improve"]
+        },
+        {
+            "question": "Why should we hire you?",
+            "keywords": ["skills", "company", "contribution", "learning"]
+        }
+    ]
+}
