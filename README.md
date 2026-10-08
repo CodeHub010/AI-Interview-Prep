@@ -6,7 +6,6 @@ An interactive AI-powered interview preparation application that helps users pra
 
 👉 [Try the AI Interview Preparation Assistant](https://ai-interview-prep-hkkgjfuyvgdd9tcpjvjwte.streamlit.app/)
 
-> Replace `https://ai-interview-prep-hkkgjfuyvgdd9tcpjvjwte.streamlit.app/` with your Streamlit Cloud URL after deployment.
 
 ## ✨ Features
 
